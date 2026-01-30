@@ -26,7 +26,6 @@ public:
     List removeConsecutiveDuplicates() const;
     void print() const;
 
-    // Helper methods for testing
     Node* getHead() const;
     bool isEmpty() const;
     int size() const;
